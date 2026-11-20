@@ -1,7 +1,7 @@
 homepage: "https://www.broadlab.tv"
 documentation: "https://github.com/broadlab-tv/broadlab-gtm-pixel-template#readme"
 versions:
-  - sha: 	755073ce4a75c09377091fa944d83ee874ba3274
+    - sha: 755073ce4a75c09377091fa944d83ee874ba3274
     changeNotes: |
       v2.0.0, first Gallery release.
       - Builds order (Page URL | trigger event | Referrer) automatically.
