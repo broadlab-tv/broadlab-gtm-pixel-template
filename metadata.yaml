@@ -1,0 +1,11 @@
+homepage: "https://www.broadlab.tv"
+documentation: "https://github.com/broadlab-tv/broadlab-gtm-pixel-template#readme"
+versions:
+  - sha: 92dd836d7975d061cea3ccebe68aa0d256f0ac47
+    changeNotes: |
+      v2.0.0, first Gallery release.
+      - Builds order (Page URL | trigger event | Referrer) automatically.
+      - Value parts kept in position, even when empty; | inside a part sent as %7C.
+      - Repeat firing built in: once per page, visit, value or order.
+      - SiteVisit (30-minute visit) built in.
+      - Send as Number reads UK and European price formats.
